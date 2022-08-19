@@ -1,0 +1,13 @@
+
+:root {
+    --my_color: green;
+}
+
+h1 {
+    color: var(--my_color);
+}
+
+
+.bia {
+    width: 50%;
+}
